@@ -1,0 +1,346 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.twitter.sdk.android:twitter:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-2.3.2.aar\a50465012c5ccd6274eb77796321e038\AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:18:1-39:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-2.6.8.aar\99bb5a3b6d39ceb240f1c589855bb470\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\17a866364f5e781f52ebdcfc75622d68\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\720ba13640e09de8e355daccc13b26f8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:18:1-37:12
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\fda131b877317418fc863642c89532fe\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\3c832efc31558cf8982b889efaf661c5\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\941ba4da8e8837824b9a32a7a755abd0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3b9117bc8a2260ea61ec89308370c6dd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\3c0a5fdd566a7e55cecd4035a7d35b51\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e9281ab1c8a2a79eb96930a01e518907\AndroidManifest.xml:17:1-26:12
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:18:1-42:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\beta-1.2.5.aar\f6c4b7845740dc745f6bed70c2c51dfc\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.17.aar\029c72910e54385ad4949c9aa1a1bb99\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\answers-1.3.13.aar\edc62c09735ac3094612ba1927b34104\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\fabric-1.3.17.aar\a59d9ae0b5d5c626d0619e6187f4e930\AndroidManifest.xml:22:1-33:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67862989b8d18e86dde3e073a5070671\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\60508cc2ea4f89143d1eddd58087cd45\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9aec01d91ba219214bfa5baf98ee1cd7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\bf5d8c00eddb570557f2bfe610522f16\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\388839037205e18a05ae3b0db3e7e323\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\33e81bf776f3f5860b0b1e6177b27017\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\861aca4d0b7b8f04fa8af5a17ea12f8a\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-2.6.8.aar\99bb5a3b6d39ceb240f1c589855bb470\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-2.6.8.aar\99bb5a3b6d39ceb240f1c589855bb470\AndroidManifest.xml:9:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:25:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\beta-1.2.5.aar\f6c4b7845740dc745f6bed70c2c51dfc\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\beta-1.2.5.aar\f6c4b7845740dc745f6bed70c2c51dfc\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.17.aar\029c72910e54385ad4949c9aa1a1bb99\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.17.aar\029c72910e54385ad4949c9aa1a1bb99\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\answers-1.3.13.aar\edc62c09735ac3094612ba1927b34104\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\answers-1.3.13.aar\edc62c09735ac3094612ba1927b34104\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\fabric-1.3.17.aar\a59d9ae0b5d5c626d0619e6187f4e930\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\fabric-1.3.17.aar\a59d9ae0b5d5c626d0619e6187f4e930\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:7:5-37:19
+MERGED from [com.twitter.sdk.android:twitter:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-2.3.2.aar\a50465012c5ccd6274eb77796321e038\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-2.3.2.aar\a50465012c5ccd6274eb77796321e038\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:27:5-37:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-2.6.8.aar\99bb5a3b6d39ceb240f1c589855bb470\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-2.6.8.aar\99bb5a3b6d39ceb240f1c589855bb470\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\17a866364f5e781f52ebdcfc75622d68\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\17a866364f5e781f52ebdcfc75622d68\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\720ba13640e09de8e355daccc13b26f8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\720ba13640e09de8e355daccc13b26f8\AndroidManifest.xml:9:5-20
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\fda131b877317418fc863642c89532fe\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\fda131b877317418fc863642c89532fe\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\3c832efc31558cf8982b889efaf661c5\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\3c832efc31558cf8982b889efaf661c5\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\941ba4da8e8837824b9a32a7a755abd0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\941ba4da8e8837824b9a32a7a755abd0\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3b9117bc8a2260ea61ec89308370c6dd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3b9117bc8a2260ea61ec89308370c6dd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\3c0a5fdd566a7e55cecd4035a7d35b51\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\3c0a5fdd566a7e55cecd4035a7d35b51\AndroidManifest.xml:26:5-20
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:27:5-40:19
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:27:5-40:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\beta-1.2.5.aar\f6c4b7845740dc745f6bed70c2c51dfc\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\beta-1.2.5.aar\f6c4b7845740dc745f6bed70c2c51dfc\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.17.aar\029c72910e54385ad4949c9aa1a1bb99\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.17.aar\029c72910e54385ad4949c9aa1a1bb99\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\answers-1.3.13.aar\edc62c09735ac3094612ba1927b34104\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\answers-1.3.13.aar\edc62c09735ac3094612ba1927b34104\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\fabric-1.3.17.aar\a59d9ae0b5d5c626d0619e6187f4e930\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\fabric-1.3.17.aar\a59d9ae0b5d5c626d0619e6187f4e930\AndroidManifest.xml:31:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67862989b8d18e86dde3e073a5070671\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67862989b8d18e86dde3e073a5070671\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\60508cc2ea4f89143d1eddd58087cd45\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\60508cc2ea4f89143d1eddd58087cd45\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9aec01d91ba219214bfa5baf98ee1cd7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9aec01d91ba219214bfa5baf98ee1cd7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\bf5d8c00eddb570557f2bfe610522f16\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\bf5d8c00eddb570557f2bfe610522f16\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\388839037205e18a05ae3b0db3e7e323\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\388839037205e18a05ae3b0db3e7e323\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\33e81bf776f3f5860b0b1e6177b27017\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\33e81bf776f3f5860b0b1e6177b27017\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\861aca4d0b7b8f04fa8af5a17ea12f8a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\861aca4d0b7b8f04fa8af5a17ea12f8a\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:11:9-32
+	android:roundIcon
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:12:9-44
+	android:icon
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:10:9-39
+	android:allowBackup
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:8:9-45
+meta-data#io.fabric.ApiKey
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:15:9-17:72
+	android:value
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:16:13-44
+activity#com.example.usr.viewsapplication.MainActivity
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:19:9-23:20
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:20:13-22:29
+category#android.intent.category.LAUNCHER
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.usr.viewsapplication.LoginActivity
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:24:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:26:25-66
+activity#com.example.usr.viewsapplication.SearchActivity
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:31:19-49
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:32:13-34:29
+action#android.intent.action.SEARCH
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:33:17-71
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:33:25-68
+activity#com.example.usr.viewsapplication.HomeTimeLine
+ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml:36:19-47
+uses-sdk
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.twitter.sdk.android:twitter:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-2.3.2.aar\a50465012c5ccd6274eb77796321e038\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-2.3.2.aar\a50465012c5ccd6274eb77796321e038\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:23:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-2.6.8.aar\99bb5a3b6d39ceb240f1c589855bb470\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-2.6.8.aar\99bb5a3b6d39ceb240f1c589855bb470\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\17a866364f5e781f52ebdcfc75622d68\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\17a866364f5e781f52ebdcfc75622d68\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\720ba13640e09de8e355daccc13b26f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\720ba13640e09de8e355daccc13b26f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:23:5-44
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\fda131b877317418fc863642c89532fe\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-plus-10.2.1.aar\fda131b877317418fc863642c89532fe\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\3c832efc31558cf8982b889efaf661c5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.1.aar\3c832efc31558cf8982b889efaf661c5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\941ba4da8e8837824b9a32a7a755abd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\941ba4da8e8837824b9a32a7a755abd0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3b9117bc8a2260ea61ec89308370c6dd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3b9117bc8a2260ea61ec89308370c6dd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\3c0a5fdd566a7e55cecd4035a7d35b51\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\3c0a5fdd566a7e55cecd4035a7d35b51\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e9281ab1c8a2a79eb96930a01e518907\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e9281ab1c8a2a79eb96930a01e518907\AndroidManifest.xml:20:5-43
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:23:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\beta-1.2.5.aar\f6c4b7845740dc745f6bed70c2c51dfc\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.5] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\beta-1.2.5.aar\f6c4b7845740dc745f6bed70c2c51dfc\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.17.aar\029c72910e54385ad4949c9aa1a1bb99\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.3.17.aar\029c72910e54385ad4949c9aa1a1bb99\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\answers-1.3.13.aar\edc62c09735ac3094612ba1927b34104\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.3.13] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\answers-1.3.13.aar\edc62c09735ac3094612ba1927b34104\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\fabric-1.3.17.aar\a59d9ae0b5d5c626d0619e6187f4e930\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.3.17] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\fabric-1.3.17.aar\a59d9ae0b5d5c626d0619e6187f4e930\AndroidManifest.xml:27:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67862989b8d18e86dde3e073a5070671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67862989b8d18e86dde3e073a5070671\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\60508cc2ea4f89143d1eddd58087cd45\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\60508cc2ea4f89143d1eddd58087cd45\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9aec01d91ba219214bfa5baf98ee1cd7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9aec01d91ba219214bfa5baf98ee1cd7\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\bf5d8c00eddb570557f2bfe610522f16\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\bf5d8c00eddb570557f2bfe610522f16\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\388839037205e18a05ae3b0db3e7e323\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\388839037205e18a05ae3b0db3e7e323\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\33e81bf776f3f5860b0b1e6177b27017\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\33e81bf776f3f5860b0b1e6177b27017\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\861aca4d0b7b8f04fa8af5a17ea12f8a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\861aca4d0b7b8f04fa8af5a17ea12f8a\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+		ADDED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Nick\MyDocuments\Java Projects\ViewsApplication\app\src\main\AndroidManifest.xml
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-composer-2.3.1.aar\119c567939447418c984da45ea95c94d\AndroidManifest.xml:34:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\17a866364f5e781f52ebdcfc75622d68\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\17a866364f5e781f52ebdcfc75622d68\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\941ba4da8e8837824b9a32a7a755abd0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\941ba4da8e8837824b9a32a7a755abd0\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3b9117bc8a2260ea61ec89308370c6dd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\3b9117bc8a2260ea61ec89308370c6dd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\3c0a5fdd566a7e55cecd4035a7d35b51\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\3c0a5fdd566a7e55cecd4035a7d35b51\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e9281ab1c8a2a79eb96930a01e518907\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\e9281ab1c8a2a79eb96930a01e518907\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67862989b8d18e86dde3e073a5070671\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\67862989b8d18e86dde3e073a5070671\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\60508cc2ea4f89143d1eddd58087cd45\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\60508cc2ea4f89143d1eddd58087cd45\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9aec01d91ba219214bfa5baf98ee1cd7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\9aec01d91ba219214bfa5baf98ee1cd7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\bf5d8c00eddb570557f2bfe610522f16\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\bf5d8c00eddb570557f2bfe610522f16\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\388839037205e18a05ae3b0db3e7e323\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\388839037205e18a05ae3b0db3e7e323\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\33e81bf776f3f5860b0b1e6177b27017\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\33e81bf776f3f5860b0b1e6177b27017\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\861aca4d0b7b8f04fa8af5a17ea12f8a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\861aca4d0b7b8f04fa8af5a17ea12f8a\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\3dedb501ff8efffaf7a20113b02388aa\AndroidManifest.xml:26:9-47
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:2.3.2] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\tweet-ui-2.3.2.aar\5f6617cc2cddf8196af733b6150e5f68\AndroidManifest.xml:33:13-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.1.aar\77c9caae4f6b64bdfb17971991b5d0f0\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.1.aar\800dd8f44fa78e8060fc5c65dfe7f73d\AndroidManifest.xml:20:20-65
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:29:13-79
+activity#com.twitter.sdk.android.core.identity.ShareEmailActivity
+ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:33:9-39:48
+	android:label
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:39:13-45
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:36:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:37:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:35:13-59
+	android:icon
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:38:13-53
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:2.3.1] C:\Users\Home\.gradle\caches\transforms-1\files-1.1\twitter-core-2.3.1.aar\cac541901dfbeb1ca6352fd8e67433af\AndroidManifest.xml:34:13-84

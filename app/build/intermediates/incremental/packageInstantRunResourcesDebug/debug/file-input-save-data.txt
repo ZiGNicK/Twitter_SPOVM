@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jun 08 17:57:20 MSK 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Nick\\MyDocuments\\Java Projects\\ViewsApplication\\app\\build\\intermediates\\assets\\debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1

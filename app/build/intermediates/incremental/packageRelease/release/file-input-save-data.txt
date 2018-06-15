@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Jun 08 17:55:54 MSK 2018
+1.base=D\:\\Nick\\MyDocuments\\Java Projects\\ViewsApplication\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=crashlytics-build.properties
+0.set=ASSET
+0.base=D\:\\Nick\\MyDocuments\\Java Projects\\ViewsApplication\\app\\build\\intermediates\\assets\\release
+1.path=classes.dex
